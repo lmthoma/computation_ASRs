@@ -1,6 +1,6 @@
 # Computation of Abstract Sameness Relations in PLMs
 
-This repo contains our code for paper LINK.
+This repo contains our code and the reported results for the pre-print LINK.
 
 The original experiment can be performed by running experiments.ipynb. For the seen data experimental setting a pmi index for the respective model is mandatory and can be created using pmi_index.ipynb.
 
