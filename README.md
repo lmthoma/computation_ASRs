@@ -1,6 +1,6 @@
 # Computation of Abstract Sameness Relations in PLMs
 
-This repo contains our code and the reported results for [Link text](linkurl).
+This repo contains our code and the reported results for our article [Is the Computation of Abstract Sameness Relations Human-Like in Neural Language Models?](https://arxiv.org/abs/2205.06149).
 
 The original experiment can be performed by running [experiments.ipynb](experiments.ipynb). For the seen data experimental setting a pmi index for the respective model is mandatory and can be created using [pmi_index.ipynb](pmi_index.ipynb).
 
